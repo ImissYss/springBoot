@@ -1,2 +1,2 @@
 # springBoot
-study springBoot
+pring boot
